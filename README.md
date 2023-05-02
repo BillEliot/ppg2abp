@@ -1,2 +1,2 @@
-# These are dataset and code for my manuscript.
+# These are code, dataset and supplementary images for my manuscript.
 Arterial Blood Pressure Wave Signal Reconstruction using Photoplethysmography by CNN-LSTM Model
